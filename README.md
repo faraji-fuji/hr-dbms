@@ -3,8 +3,8 @@
 This project will help me learn and demonstrate my knowledge using SQL, MySQL
 and MySQL Workbench.
 
-## Tasks
 
+## Simple Queries and Group by
 1.	Write a select statement that returns all the employees and their 
 	salary whose job title is Purchasing Clerk.
 
