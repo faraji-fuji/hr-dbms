@@ -5,8 +5,8 @@ and MySQL Workbench.
 
 
 ## Simple Queries and Group by
-[]	Write a select statement that returns all the employees and their 
-	salary whose job title is Purchasing Clerk.
+- [ ] Write a select statement that returns all the employees and their 
+salary whose job title is Purchasing Clerk.
 
 2.	Write a select statement that returns the Full name, job title and 
 	the department name of John Chen
