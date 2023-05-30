@@ -22,18 +22,14 @@ and MySQL Workbench.
 
 7.	Write a query to print max_salary which each employee can earn in each job Title
 
-	### Execute the following queries using subqueries (only)
+## Execute the following queries using subqueries (only)
 
 8.	Print all Employees full name who are working from Europe region
-
-
 
 9.	Write SQL statement that returns the number of employees in every department whose
 	salary is more tha 6000. Do not return the department where the salary is more than
     9000
 
-
-
-	### Execute following queries using joins;
+## Execute following queries using joins;
 
 10. What is Steven King department name and region name.
